@@ -3,6 +3,8 @@
 namespace Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
+use Tests\CreatesApplication;
+use Tests\MigrateFreshSeedOnce;
 use Tests\TestCase;
 
 class ExampleTest extends TestCase
