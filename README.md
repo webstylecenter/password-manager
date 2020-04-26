@@ -22,8 +22,8 @@ If you can't run bash in step 5, you can run the following command:
 Here are a few screenshots of the Server Password manager. Please not that domain names, ip's and shown login data
 are fake. **I don't recomment visiting the faked domains**
 
-####Server view:
+#### Server view:
 ![alt text](resources/images/server-view.jpg)
 
-####Domain view:
+#### Domain view:
 ![alt text](resources/images/domain-view.jpg)
